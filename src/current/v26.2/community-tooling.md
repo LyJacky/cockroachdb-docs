@@ -63,6 +63,7 @@ If you have a tested or developed a third-party tool with CockroachDB, and would
 - [Pgweb](http://sosedoff.github.io/pgweb/)
 - [Postico](https://eggerapps.at/postico/)
 - [TablePlus](https://tableplus.com/blog/2018/06/best-cockroachdb-gui-client-tableplus.html)
+- [VisuaLeaf](https://visualeaf.com/database/cockroachdb/)
 
 ## Schema migration tools
 
